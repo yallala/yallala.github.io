@@ -22,3 +22,7 @@ Strategic leader with 19+ years in financial services, now bridging business str
 ---
 
 **Note:** This profile showcases my journey from strategic advisor to AI transformation leader. Check out my [ai-architect-lab](https://github.com/yallala/ai-architect-lab) repo for code samples and technical projects.
+
+
+### ✍️ Latest Journal Entry
+- [From Strategy to Syntax: Day 1 Setup](https://yallala.github.io/journal/day-1-setup.md)

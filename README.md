@@ -26,4 +26,5 @@ Strategic leader with 19+ years in financial services, now bridging business str
 
 ### ✍️ Latest Journal Entry
 https://yallala.github.io/journal/day-1-setup.html
+https://yallala.github.io/journal/day-1-git-architecture.html
 

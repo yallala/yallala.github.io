@@ -3,7 +3,7 @@
 ## AI Strategy & Product Leader | Transforming Business Through Intelligent Systems
 
 ### 🎯 About Me
-Strategic leader with 19+ years in financial services, now bridging business strategy with AI implementation. Currently completing a 12-week intensive to combine leadership expertise with hands-on Azure AI and agentic systems knowledge.
+Strategic leader with 19+ years in financial services, now bridging business strategy with AI implementation. Currently completing a 3+ months intensive to combine leadership expertise with hands-on Azure AI and agentic systems knowledge.
 
 ### 🛠️ Technical Focus
 - Azure AI Platform (OpenAI, AI Search, RAG)
